@@ -10,7 +10,7 @@ import project2 from "../../public/images/projects/kresa2.png";
 import project3 from "../../public/images/projects/safety.png";
 import project4 from "../../public/images/projects/fruit.png";
 import project5 from "../../public/images/projects/shoe.png";
-import project6 from "../../public/images/projects/Laza.png";
+import project6 from "../../public/images/projects/laza.png";
 import TransitionEffect from "@/components/TransitionEffect";
 
 const FeaturedProject = ({ type, title, summary, img, link, github }) => {
