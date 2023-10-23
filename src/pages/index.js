@@ -15,7 +15,7 @@ export default function Home() {
     <>
       <Head>
         <title>Home Page</title>
-        <meta name='description' content='Genered by create next app'></meta>
+        <meta name="description" content="Genered by create next app"></meta>
 
       </Head>
       <TransitionEffect />

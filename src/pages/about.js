@@ -40,7 +40,7 @@ const about = () => {
         <>
             <Head>
                 <title>About Page</title>
-                <meta name='description' content='any description' />
+                <meta name="description" content="any description" />
             </Head>
             <TransitionEffect />
             <main className="flex w-full flex-col items-center justify-center dark:text-light">
@@ -53,7 +53,7 @@ const about = () => {
                                 Hello, my name is Perdi Yansyah also known as Perdiy. I am a Computer Scientist college graduate.
                             </p>
                             <p className="font-medium">
-                                Frontend developer specialized in Flutter, React.JS, and Swift. Passionate in delivering apps that are usable and get things done without sacrificing the quality, integrity and values of apps. I'm a team player that always keen to learn new things.
+                                Frontend developer specialized in Flutter, React.JS, and Swift. Passionate in delivering apps that are usable and get things done without sacrificing the quality, integrity and values of apps. Im a team player that always keen to learn new things.
                             </p>
                         </div>
                         <div className="col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark
