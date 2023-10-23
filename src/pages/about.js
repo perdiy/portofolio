@@ -53,7 +53,7 @@ const about = () => {
                                 Hello, my name is Perdi Yansyah also known as Perdiy. I am a Computer Scientist college graduate.
                             </p>
                             <p className="font-medium">
-                                frontend developer specialized in Flutter, React.JS, and Swift. Passionate in delivering apps that are usable and get things done without sacrificing the quality, integrity and values of apps. I'm a team player that always keen to learn new things.
+                                Frontend developer specialized in Flutter, React.JS, and Swift. Passionate in delivering apps that are usable and get things done without sacrificing the quality, integrity and values of apps. I'm a team player that always keen to learn new things.
                             </p>
                         </div>
                         <div className="col-span-3 relative h-max rounded-2xl border-2 border-solid border-dark
